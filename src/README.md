@@ -23,6 +23,23 @@ Limitations of this module
 
 This module focuses on `asyncio` (and `asyncio`) only. For `trio` this module is not required as `trio` already contains this functionality.
 
+How to install module
+----------------------
+
+This module can be installed easily using `pip`.
+
+Use this for a system wide installation of this module:
+
+```bash
+$ sudo pip install jk-asyncio-syncasync
+```
+
+Use this for user specific installation of this module:
+
+```bash
+$ pip install --user jk-asyncio-syncasync
+```
+
 How to use this module
 ----------------------
 
