@@ -1,0 +1,49 @@
+{
+	"language": "python3",
+	"name": "jk_asyncio_syncasync",
+	"version": "0.2019.10.19",
+	"meta": {
+		"description": "This python module enables asyncio based functions/methods to invoke classic synchroneous functions/methods. This is implemented by delegating execution of to a thread pool.",
+		"keywords": [
+			"asyncio"
+		],
+		"license": "Apache 2.0",
+		"development_status": "alpha",
+		"authors": [
+			{
+				"name": "Jürgen Knauth",
+				"email": "pubsrc@binary-overflow.de"
+			}
+		],
+		"wiki": {
+			"page": "DevDocs:jk_asyncio_syncasync"
+		}
+	},
+	"repositories": [
+		{
+			"type": "github",
+			"user": "jkpubsrc",
+			"project": "ython-module-jk-asyncio-syncasync",
+			"devon_publish": true
+		},
+		{
+			"type": "pypy",
+			"project": "jk-asyncio-syncasync",
+			"devon_publish": true
+		}
+	],
+	"source": {
+		"packages": [
+			"jk_asyncio_syncasync"
+		],
+		"extra_data_files": [
+		]
+	},
+	"requirements": {
+		"python_packages": [
+		],
+		"python_packages_dev": [
+		]
+	}
+}
+
