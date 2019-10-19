@@ -28,17 +28,19 @@ How to install module
 
 This module can be installed easily using `pip`.
 
-Use this for a system wide installation of this module:
+Use this command for a system wide installation of this module:
 
 ```bash
 $ sudo pip install jk-asyncio-syncasync
 ```
 
-Use this for user specific installation of this module:
+Use this command for user specific installation of this module:
 
 ```bash
 $ pip install --user jk-asyncio-syncasync
 ```
+
+The PiPy module is always kept in sync with the Github repository so using PyPi is equivalent to a manual installation using the code provided on Github.
 
 How to use this module
 ----------------------

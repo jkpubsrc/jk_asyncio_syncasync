@@ -19,7 +19,7 @@ setup(
 	author = "Jürgen Knauth",
 	author_email = "pubsrc@binary-overflow.de",
 	classifiers = [
-		"Development Status :: 3 - Alpha",
+		"Development Status :: 5 - Production/Stable",
 		"License :: OSI Approved :: Apache Software License",
 	],
 	description = "This python module enables asyncio based functions/methods to invoke classic synchroneous functions/methods. This is implemented by delegating execution of to a thread pool.",
