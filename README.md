@@ -8,8 +8,8 @@ This python module enables asyncio based functions/methods to invoke classic syn
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/....)
-* [pypi.python.org](https://pypi.python.org/pypi/jk_asyncio_syncasync)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-asyncio-syncasync)
+* [pypi.org](https://pypi.org/project/jk-asyncio-syncasync/)
 
 Why this module?
 ----------------
